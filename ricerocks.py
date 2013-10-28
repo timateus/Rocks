@@ -1,3 +1,11 @@
+#Timofey Nosov
+#timnosov@gmail.com
+#July 2013
+#
+#
+#this file is intended to be run on codeskulptor.org
+
+
 # program template for Spaceship
 import simplegui
 import math
